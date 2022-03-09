@@ -1,22 +1,28 @@
 # Setup
-title:               Lanyon
-tagline:             'A Jekyll theme'
-description:         'A reserved <a href="https://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:                 http://lanyon.getpoole.com
+title:               티끌 모아 태산
+tagline:             "yunvo's unregulated logs!"
+description:         '<img class="fit-picture" src="https://cdn.pixabay.com/photo/2017/11/14/13/06/kitty-2948404_1280.jpg">'
+url:                 https://yunvo.github.io
 baseurl:             ''
 paginate:            5
 permalink:           pretty
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              Kim Yunvo
+  url:               https://github.com/yunvo
+  email:             kimyn1331.k@gmail.com
 
 # Gems
 plugins:
   - jekyll-paginate
 
 # Custom vars
-version:             1.1.0
+# version:             1.1.0
 google_analytics_id: #UA-XXXX-Y
+
+github:
+  repo:              https://github.com/yunvo
+
+category_dir: category/
+tag_dir: tag/
